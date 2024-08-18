@@ -1,0 +1,14 @@
+C:\Users\easyc\OneDrive\Área de Trabalho\GITHUBB\C-.NET\ExAula1\bin\Debug\net8.0\ExAula1.exe
+C:\Users\easyc\OneDrive\Área de Trabalho\GITHUBB\C-.NET\ExAula1\bin\Debug\net8.0\ExAula1.deps.json
+C:\Users\easyc\OneDrive\Área de Trabalho\GITHUBB\C-.NET\ExAula1\bin\Debug\net8.0\ExAula1.runtimeconfig.json
+C:\Users\easyc\OneDrive\Área de Trabalho\GITHUBB\C-.NET\ExAula1\bin\Debug\net8.0\ExAula1.dll
+C:\Users\easyc\OneDrive\Área de Trabalho\GITHUBB\C-.NET\ExAula1\bin\Debug\net8.0\ExAula1.pdb
+C:\Users\easyc\OneDrive\Área de Trabalho\GITHUBB\C-.NET\ExAula1\obj\Debug\net8.0\ExAula1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\easyc\OneDrive\Área de Trabalho\GITHUBB\C-.NET\ExAula1\obj\Debug\net8.0\ExAula1.AssemblyInfoInputs.cache
+C:\Users\easyc\OneDrive\Área de Trabalho\GITHUBB\C-.NET\ExAula1\obj\Debug\net8.0\ExAula1.AssemblyInfo.cs
+C:\Users\easyc\OneDrive\Área de Trabalho\GITHUBB\C-.NET\ExAula1\obj\Debug\net8.0\ExAula1.csproj.CoreCompileInputs.cache
+C:\Users\easyc\OneDrive\Área de Trabalho\GITHUBB\C-.NET\ExAula1\obj\Debug\net8.0\ExAula1.dll
+C:\Users\easyc\OneDrive\Área de Trabalho\GITHUBB\C-.NET\ExAula1\obj\Debug\net8.0\refint\ExAula1.dll
+C:\Users\easyc\OneDrive\Área de Trabalho\GITHUBB\C-.NET\ExAula1\obj\Debug\net8.0\ExAula1.pdb
+C:\Users\easyc\OneDrive\Área de Trabalho\GITHUBB\C-.NET\ExAula1\obj\Debug\net8.0\ExAula1.genruntimeconfig.cache
+C:\Users\easyc\OneDrive\Área de Trabalho\GITHUBB\C-.NET\ExAula1\obj\Debug\net8.0\ref\ExAula1.dll
